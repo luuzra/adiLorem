@@ -1,0 +1,1 @@
+geom = new Line(o);
